@@ -1,9 +1,11 @@
-## Getting a Job as an IC Field Applications Engineer
+### Getting a Job as an IC Field Applications Engineer
 
-# Table of Contents
-- [Upper-division electives to take](#upper-division-electives-to-take)
-    - [Assignment topic](#assignment-topic)
-    - [Basic specs](#basic-specs)
+## Table of Contents
+-[Purpose](#purpose)
+- [Upper-Division Electives to Take](#upper-division-electives-to-take)
+- [Personal Projects to Consider Building](#personal-projects-to-consider-building)
+- [Soft Skills](#soft-skills)
+- -[Internships](#internships)
 - [Writing the assignment](#writing-the-assignment)
     - [Title (cover) page](#title-cover-page)
     - [Formatting](#formatting)
@@ -26,4 +28,12 @@
 
 ---
 
-## Planning for the assignment
+## Upper-Division Electives to Take
+
+## Personal Projects to Consider Building
+
+## Soft Skills
+
+## Internships
+
+##
