@@ -32,7 +32,7 @@
 As a Husky EE student nearing graduation, you will soon begin applying for jobs. Your goal of becoming an integrated circuit field applications engineer is approaching fruition. The purpose of this document is to concisely give you a leap-start on how to best prepare for getting your dream-job.
 
 ### Best Practices Figure
-![FAE Oscilliscope Graphic]("C:\Users\denna\OneDrive\Desktop\CSS301\Process\SCOPE.png")
+![FAE Oscilliscope Graphic](.\Users\denna\OneDrive\Desktop\CSS301\Process\SCOPE.png)
 
 ## Upper-Division Electives to Take
 All Husky EE students take BEE 332 | Semiconductors & Devices II as a core requirement. After satiating this degree requirement, you should take particular electives to enhance your technical knowledge of integrated circuits. Some recommended courses are listed below:
