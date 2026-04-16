@@ -2,12 +2,11 @@
 
 ## Table of Contents
 
-- [Planning for the assignment](#planning-for-the-assignment)
-    - [Assignment topic](#assignment-topic)
-    - [Basic specs](#basic-specs)
+- [Purpose](#purpose)
+    - [Best Practices Figurec](#best-practices-figure)
+
   
--[Purpose](#purpose)
-    - [Best Practices Figure](#best-practices-figure)
+
 - [Upper-Division Electives to Take](#upper-division-electives-to-take)
 - [Personal Projects to Consider Building](#personal-projects-to-consider-building)
 - [Soft Skills](#soft-skills)
