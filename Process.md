@@ -2,7 +2,7 @@
 
 ## Table of Contents
 -[Purpose](#purpose)
-    -[Best Practices Figure](#best-practices-figure)
+    - [Best Practices Figure](#best-practices-figure)
 - [Upper-Division Electives to Take](#upper-division-electives-to-take)
 - [Personal Projects to Consider Building](#personal-projects-to-consider-building)
 - [Soft Skills](#soft-skills)
