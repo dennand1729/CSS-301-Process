@@ -1,4 +1,4 @@
-### Getting a Job as an IC Field Applications Engineer
+# Getting a Job as an IC Field Applications Engineer
 
 ## Table of Contents
 -[Purpose](#purpose)
