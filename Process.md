@@ -2,6 +2,7 @@
 
 ## Table of Contents
 -[Purpose](#purpose)
+    -[Best Practices Figure](#best-practices-figure)
 - [Upper-Division Electives to Take](#upper-division-electives-to-take)
 - [Personal Projects to Consider Building](#personal-projects-to-consider-building)
 - [Soft Skills](#soft-skills)
@@ -9,14 +10,17 @@
 - [References](#references)
 - 
 
-    - [Citations](#citations)
-        - [In-Text Citations/Footnotes](#in-text-citationsfootnotes)
-        - [References](#references)
-        - [Cite Informational Interview](#cite-informational-interview)
+- [Citations](#citations)
+  - [In-Text Citations/Footnotes](#in-text-citationsfootnotes)
+  - [References](#references)
+  - [Cite Informational Interview](#cite-informational-interview)
 
 
 ---
 ## Purpose
+
+### Best Practices Figure
+
 
 ## Upper-Division Electives to Take
 
@@ -26,4 +30,4 @@
 
 ## Internships
 
-##
+## References
