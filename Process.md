@@ -15,6 +15,9 @@
      - [Presentation](#presentation)
      - [Adaptability](#adaptability)
 - [Internships](#internships)
+     - [Resume](#resume)
+     - [Portfolio](#portfolio)
+     - [Interview preparation](#interview-preparation)
 - [References](#references)
 - 
 
@@ -60,7 +63,8 @@ You are the face of the semiconductor-company you work for. Engineering teams at
 
 The best practice to confirm that you understand someone's problem is to reflect it back to them in a different way and ask "Am I understanding this correctly?". i.e. if a client tells you their design problem then you can present a confifent understanding by drawing it out on a whiteboard, talking through the depiction, and asking if your visual captures their dilemna-- this accomplishes two things.
 
-1.) You deeply understand the problem to fix and can easily communicate the needs of the client with your own team at the semiconductor company
+1.) You deeply understand the problem to fix and can easily communicate the needs of the client with your own team at the semiconductor company \
+
 2.) You demonstrate an eagerness to understand and listen to the client.
 
 ### Adaptability
@@ -70,5 +74,6 @@ One unconventional way to gain this sixth sense is to take an improv class. Impr
 
 
 ## Internships
+Internships are a great way to demonstrate your ability to work on an engineering team with other people; they have become notoriously elusive and hard to get. You can land an internship by searching for companies in your field that are not being bombarded with applications. Bigger companies means more competition so your best bet is applying to companies with fewer applicants and making sure you stand out.
 
 ## References
