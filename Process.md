@@ -5,6 +5,7 @@
 - [Purpose](#purpose)
     - [Best Practices Figure](#best-practices-figure)
 - [Upper-Division Electives to Take](#upper-division-electives-to-take)
+     - [re](#re)
 - [Personal Projects to Consider Building](#personal-projects-to-consider-building)
 - [Soft Skills](#soft-skills)
 - [Internships](#internships)
@@ -25,6 +26,8 @@ As a Husky EE student nearing graduation, you will soon begin applying for jobs.
 
 
 ## Upper-Division Electives to Take
+
+### re
 
 ## Personal Projects to Consider Building
 
