@@ -1,6 +1,11 @@
 # Getting a Job as an IC Field Applications Engineer
 
 ## Table of Contents
+
+- [Planning for the assignment](#planning-for-the-assignment)
+    - [Assignment topic](#assignment-topic)
+    - [Basic specs](#basic-specs)
+  
 -[Purpose](#purpose)
     - [Best Practices Figure](#best-practices-figure)
 - [Upper-Division Electives to Take](#upper-division-electives-to-take)
