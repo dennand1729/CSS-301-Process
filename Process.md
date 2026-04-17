@@ -77,4 +77,4 @@ One unconventional way to gain this sixth sense is to take an improv class. Impr
 Internships are a great way to demonstrate your ability to work on an engineering team with other people; they have become notoriously elusive and hard to get. You can land an internship by searching for companies in your field that are not being bombarded with applications. Bigger companies means more competition so your best bet is applying to companies with fewer applicants and making sure you stand out.
 
 ## References
-[^1] A. Dennis and Z. Aljouni, “Student Informational Interview with Analog Devices Field Applications Engineer,” Apr. 16, 2026 
+[^1]: A. Dennis and Z. Aljouni, “Student Informational Interview with Analog Devices Field Applications Engineer,” Apr. 16, 2026 
