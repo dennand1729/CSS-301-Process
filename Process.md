@@ -19,7 +19,6 @@
      - [Portfolio](#portfolio)
      - [Interview preparation](#interview-preparation)
 - [References](#references)
-- 
 ---
 ## Purpose
 As a Husky EE student nearing graduation, you will soon begin applying for jobs. Your goal of becoming an integrated circuit field applications engineer is approaching fruition. The purpose of this document is to  give you a leap-start on how to best prepare for getting your dream-job.
