@@ -24,7 +24,7 @@
 As a Husky EE student nearing graduation, you will soon begin applying for jobs. Your goal of becoming an integrated circuit field applications engineer is approaching fruition. The purpose of this document is to  give you a leap-start on how to best prepare for getting your dream-job.
 
 ### Best Practices Figure
-Best practices to get a job in IC FAE are discussed throughout the remaining document, and are summarized in the graphic below:
+Best practices to get a job in IC FAE are discussed at length throughout the remaining document, and are summarized in the graphic below:
 ![FAE Oscilliscope Graphic](SCOPE.png)
 
 ## Upper-Division Electives to Take
