@@ -4,7 +4,7 @@
 
 - [Purpose](#purpose)
 - [Best Practices](#best-practices)
-        - [Best Practices Figure](#best-practices-figure)
+    - [Best Practices Figure](#best-practices-figure)
     - [Upper-Division Electives to Take](#upper-division-electives-to-take)
          - [Electronic Circuit Design](#electronic-circuit-design)
          - [Fundamentals of IC Technology](#fundamentals-of-ic-technology)
