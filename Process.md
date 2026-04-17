@@ -47,10 +47,10 @@ UWB offers BEE 486 | Fundamentals of Integrated Circuit Technology. This course 
 EE students with an array of technical projects prove their technical prowess by letting the projects section of their resume speak for them. Below are a couple inter-related project ideas to get you started:
 
 ### Flash ADC
-A flash analog to digital converter is a circuit that takes an analog voltage and transforms it into a digital number; this is the way microphone software records audio and how battery voltages are converted to %s. This converter uses many comparators to compare the input signal to many references; this means the signal gets converted fast. Here is a tutorial on building a [Flash ADC](https://www.youtube.com/watch?v=Q1I3axj1cQA, "DIY 3-bit Flash ADC")
+A flash analog to digital converter is a circuit that takes an analog voltage and transforms it into a digital number; this is the way microphone software records audio and how battery voltages are converted to %s. This converter uses many comparators to compare the input signal to many references; this means the signal gets converted fast. Here is a tutorial on building a [Flash ADC project](https://www.youtube.com/watch?v=Q1I3axj1cQA, "DIY 3-bit Flash ADC").
 
 ### SAR ADC
-A successive approximation register is a circuit that also takes an analog signal and returns a digital value. This circuit uses one comparator and binary search to find the correct value the signal should be converted to pointwise. Speed is moderate, but this tradeoff benefits power consumption and efficiency.
+A successive approximation register is a circuit that also takes an analog signal and returns a digital value. This circuit uses one comparator and binary search to find the correct value the signal should be converted to pointwise. Speed is moderate, but this tradeoff benefits power consumption and efficiency. Here is a [project schematic](https://hackaday.io/project/181826-homemade-successive-approximation-register-adc, "DIY SAR ADC"), and an associated [video demo](https://www.youtube.com/watch?v=lxwAKFijk50, "SAR ADC walkthrough")
 
 ### Why Build Two Converters?
 The point of building different versions of the same circuit is  demonstrating an understanding of tradeoffs in circuit design. If your client want speed then what will you sacrifice? What is the best multi-terrain converter? This familiarity will help you show recruiters and hiring managers your ability to decide which component/integrated circuit is the right fit.
