@@ -38,10 +38,10 @@ As a Husky EE student nearing graduation, you will soon begin applying for jobs.
 EE students take BEE 332 | Semiconductors & Devices II as a core requirement. After satiating this requirement, you should take particular electives to enhance your technical knowledge of integrated circuits. Recommended courses are listed below:
 
 ### Electronic Circuit Design
-UWB offers BEE 433 | Electronic Circuit Design. In this class you gain an understanding of modern, solid-state design techniques for instrumentation purposes. The class focuses on design using integrated circuits (op-amps, processors, etc.) making it  invaluable to gaining familiarity with semiconductor technologies--products you will both sell and work alongside technical teams to implement.
+UWB offers BEE 433 | Electronic Circuit Design. In this class you gain an understanding of modern, solid-state design techniques for instrumentation purposes. The class focuses on design using integrated circuits (op-amps, processors, etc.) making it  invaluable to gaining familiarity with semiconductor technologies--products you will both sell and work alongside technical teams to implement.[^1]
 
 ### Fundamentals of IC Technology
-UWB offers BEE 486 | Fundamentals of Integrated Circuit Technology. This course covers mircoelectronic processing technology, IC-material chemical processes, and teaches design considerations for transistors and other semiconductor components. You will want to take this class if understanding the "why" of component characteristics is on your horizon.
+UWB offers BEE 486 | Fundamentals of Integrated Circuit Technology. This course covers mircoelectronic processing technology, IC-material chemical processes, and teaches design considerations for transistors and other semiconductor components. You will want to take this class if understanding the "why" of component characteristics is on your horizon.[^1]
 
 ## Personal Projects to Consider Building
 EE students with an array of technical projects prove their technical prowess by letting the projects section of their resume speak for them. Below are a couple inter-related project ideas to get you started:
@@ -59,9 +59,9 @@ The point of building different versions of the same circuit is  demonstrating a
 Soft skills like communication, time-management, and conflict resolution are ubiqitously desired qualities in any engineering role. The following soft skills are vital to your success as a Field Applications Engineer.
 
 ### Presentation
-You are the face of the semiconductor-company you work for. Engineering teams at external companies collaborate with you to find optimal solutions to their problems. They will rely on your expertise and feedback to proceed with their projects. You must create a space where clients feel comfortable asking questions, and you must show your attention to detail in understanding their concerns. [^1]
+You are the face of the semiconductor-company you work for. Engineering teams at external companies collaborate with you to find optimal solutions to their problems. They will rely on your expertise and feedback to proceed with their projects. You must create a space where clients feel comfortable asking questions, and you must show your attention to detail in understanding their concerns. [^2]
 
-The best practice to confirm that you understand someone's problem is to reflect it back to them in a different way and ask "Am I understanding this correctly?".[^1] i.e. if a client tells you their design problem then you can present a confifent understanding by drawing it out on a whiteboard, talking through the depiction, and asking if your visual captures their dilemna-- this accomplishes two things.
+The best practice to confirm that you understand someone's problem is to reflect it back to them in a different way and ask "Am I understanding this correctly?".[^2] i.e. if a client tells you their design problem then you can present a confifent understanding by drawing it out on a whiteboard, talking through the depiction, and asking if your visual captures their dilemna-- this accomplishes two things.
 
 1.) You deeply understand the problem to fix and can easily communicate the needs of the client with your own team at the semiconductor company \
 
@@ -77,4 +77,5 @@ One unconventional way to gain this sixth sense is to take an improv class. Impr
 Internships are a great way to demonstrate your ability to work on an engineering team with other people; they have become notoriously elusive and hard to get. You can land an internship by searching for companies in your field that are not being bombarded with applications. Bigger companies means more competition so your best bet is applying to companies with fewer applicants and making sure you stand out.
 
 ## References
-[^1]: A. Dennis and Z. Aljouni, “Student Informational Interview with Analog Devices Field Applications Engineer,” Apr. 16, 2026 
+[^1]: UW BOTHELL ENGINEERING AND MATHEMATICS (BOTHELL) ELECTRICAL ENGINEERING - UW BOTHELL COURSE OFFERINGS, https://www.washington.edu/students/crscatb/bee.html (accessed Apr. 16, 2026). 
+[^2]: A. Dennis and Z. Aljouni, “Student Informational Interview with Analog Devices Field Applications Engineer,” Apr. 16, 2026 
