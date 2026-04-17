@@ -3,26 +3,25 @@
 ## Table of Contents
 
 - [Purpose](#purpose)
-    - [Best Practices Figure](#best-practices-figure)
-- [Upper-Division Electives to Take](#upper-division-electives-to-take)
-     - [Electronic Circuit Design](#electronic-circuit-design)
-     - [Fundamentals of IC Technology](#fundamentals-of-ic-technology)
-- [Personal Projects to Consider Building](#personal-projects-to-consider-building)
-     - [Flash ADC](#flash-adc)
-     - [SAR ADC](#sar-adc)
-     - [Why Build Two Converters?](#why-build-two-converters?)
-- [Soft Skills](#soft-skills)
-     - [Presentation](#presentation)
-     - [Adaptability](#adaptability)
-- [Internships](#internships)
-     - [Resume](#resume)
-     - [Portfolio](#portfolio)
-     - [Interview preparation](#interview-preparation)
+- [Best Practices](#best-practices)
+        - [Best Practices Figure](#best-practices-figure)
+    - [Upper-Division Electives to Take](#upper-division-electives-to-take)
+         - [Electronic Circuit Design](#electronic-circuit-design)
+         - [Fundamentals of IC Technology](#fundamentals-of-ic-technology)
+    - [Personal Projects to Consider Building](#personal-projects-to-consider-building)
+         - [Flash ADC](#flash-adc)
+         - [SAR ADC](#sar-adc)
+         - [Why Build Two Converters?](#why-build-two-converters?)
+    - [Soft Skills](#soft-skills)
+         - [Presentation](#presentation)
+         - [Adaptability](#adaptability)
+    - [Internships](#internships)
 - [References](#references)
 ---
 ## Purpose
 As a Husky EE student nearing graduation, you will soon begin applying for jobs. Your goal of becoming an integrated circuit field applications engineer is approaching fruition. The purpose of this document is to  give you a leap-start on how to best prepare for getting your dream-job.
 
+## Best Practices
 ### Best Practices Figure
 Best practices to get a job in IC FAE are discussed at length throughout the remaining document, and are summarized in the graphic below:
 ![FAE Oscilliscope Graphic](SCOPE.png)
