@@ -3,8 +3,6 @@
 ## Table of Contents
 
 - [Purpose](#purpose)
-- [Best Practices](#best-practices)
-    - [Best Practices Figure](#best-practices-figure)
     - [Upper-Division Electives to Take](#upper-division-electives-to-take)
          - [Electronic Circuit Design](#electronic-circuit-design)
          - [Fundamentals of IC Technology](#fundamentals-of-ic-technology)
@@ -21,10 +19,6 @@
 ## Purpose
 As a Husky EE student nearing graduation, you will soon begin applying for jobs. Your goal of becoming an integrated circuit field applications engineer is approaching fruition. The purpose of this document is to  give you a leap-start on how to best prepare for getting your dream-job.
 
-## Best Practices
-### Best Practices Figure
-Best practices to get a job in IC FAE are discussed at length throughout the remaining document, and are summarized in the graphic below:
-![FAE Oscilliscope Graphic](SCOPE.png)
 
 ## Upper-Division Electives to Take
 EE students take BEE 332 | Semiconductors & Devices II as a core requirement. After satiating this requirement, you should take particular electives to enhance your technical knowledge of integrated circuits. Recommended courses are listed below:
