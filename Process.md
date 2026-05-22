@@ -6,10 +6,11 @@
     - [Build Familiarity with IC Configurations Early](#build-familiarity-with-IC-configurations-early)
          - [Electronic Circuit Design](#electronic-circuit-design)
          - [Fundamentals of IC Technology](#fundamentals-of-ic-technology)
-    - [Personal Projects to Consider Building](#personal-projects-to-consider-building)
+    - [Strengthen Skills Through Personal Projects](#Strengthen-Skills-Through-Personal-Projects)
          - [Flash ADC](#flash-adc)
          - [SAR ADC](#sar-adc)
-         - [Why Build Two Converters?](#why-build-two-converters?)
+         - [MOSFET Amplifier](#mosfet-amplifier)
+         - [AM Radio Receiver](#am-radio-receiver)
     - [Soft Skills](#soft-skills)
          - [Presentation](#presentation)
          - [Adaptability](#adaptability)
@@ -21,25 +22,34 @@ As a Husky EE student nearing graduation, you will soon begin applying for jobs.
 
 
 ## Build Familiarity with IC Configurations Early
-EE students take BEE 332 | Semiconductors & Devices II as a core requirement. After satiating this requirement, you should take particular electives to enhance your technical knowledge of integrated circuits. Recommended courses are listed below:
 
-### Electronic Circuit Design
-UWB offers BEE 433 | Electronic Circuit Design. In this class you gain an understanding of modern, solid-state design techniques for instrumentation purposes. The class focuses on design using integrated circuits (op-amps, processors, etc.) making it  invaluable to gaining familiarity with semiconductor technologies--products you will both sell and work alongside technical teams to implement.[^1]
+**Why:**   Showing early understanding of foundational building blocks in IC design sets you apart to recruiters at semiconductor companies. Building an intuition of modular circuit configurations and IC fabrication techniques signals you already pocess valuable knowledge that will lessen company expenditures on training and onboarding making you the ideal canidate.
 
-### Fundamentals of IC Technology
-UWB offers BEE 486 | Fundamentals of Integrated Circuit Technology. This course covers mircoelectronic processing technology, IC-material chemical processes, and teaches design considerations for transistors and other semiconductor components. You will want to take this class if understanding the "why" of component characteristics is on your horizon.[^1]
+**How:**   Take these classes during your degree at UW Bothell.
 
-## Personal Projects to Consider Building
-EE students with an array of technical projects prove their technical prowess by letting the projects section of their resume speak for them. Below are a couple inter-related project ideas to get you started:
+### BEE 433 | Electronic Circuit Design
+The class focuses on design using integrated circuits (op-amps, processors, etc.) making it  invaluable to gaining familiarity with semiconductor technologies--products you will both sell and work alongside technical teams to implement.[^1]
+
+### BEE 486 | Fundamentals of IC Technology
+This course covers mircoelectronic processing technology, IC-fabrication chemical processes, and teaches design considerations for semiconductor components. A dedicated study will ensure you impress inteviewers in the technical interview.[^1]
+
+## Strengthen Skills Through Personal Projects
+
+**Why:** Technical interviewers want to hire canidates with experience in design and troubleshooting. Having a few polished projects can advertise your skills and give you a well of intuition to tap into during the interview. 
+
+**How:** Below are a couple inter-related project ideas to get you started:
 
 ### Flash ADC
-A flash analog to digital converter is a circuit that takes an analog voltage and transforms it into a digital number; this is the way microphone software records audio and how battery voltages are converted to %s. This converter uses many comparators to compare the input signal to many references; this means the signal gets converted fast. Here is a tutorial on building a [Flash ADC project](https://www.youtube.com/watch?v=Q1I3axj1cQA, "DIY 3-bit Flash ADC").
+A flash analog to digital converter is a circuit that takes an analog voltage and transforms it into a digital number.  Here is a tutorial on building a [Flash ADC project](https://www.youtube.com/watch?v=Q1I3axj1cQA, "DIY 3-bit Flash ADC").
 
 ### SAR ADC
-A successive approximation register is a circuit that also takes an analog signal and returns a digital value. This circuit uses one comparator and binary search to find the correct value the signal should be converted to pointwise. Speed is moderate, but this tradeoff benefits power consumption and efficiency. Here is a [project schematic](https://hackaday.io/project/181826-homemade-successive-approximation-register-adc, "DIY SAR ADC"), and an associated [video demo](https://www.youtube.com/watch?v=lxwAKFijk50, "SAR ADC walkthrough")
+A successive approximation register is also a circuit that also takes an analog signal and returns a digital value. . Here is a [project schematic](https://hackaday.io/project/181826-homemade-successive-approximation-register-adc, "DIY SAR ADC"), and a [video demo](https://www.youtube.com/watch?v=lxwAKFijk50, "SAR ADC walkthrough").
 
-### Why Build Two Converters?
-The point of building different versions of the same circuit is  demonstrating an understanding of tradeoffs in circuit design. If your client want speed then what will you sacrifice? What is the best multi-terrain converter? This familiarity will help you show recruiters and hiring managers your ability to decide which component/integrated circuit is the right fit.
+### MOSFET Amplifier
+A MOSFET amplifier will use transistors to amplify a small signal. Try building one from this [project layout](https://www.electronics-tutorials.ws/amplifier/mosfet-amplifier.html).
+
+### AM Radio Reciever
+A [reciever](https://www.circuitbasics.com/what-are-am-radios/) which can demodulate and play signals on AM freuqncy band. 
 
 ## Soft Skills
 Soft skills like communication, time-management, and conflict resolution are ubiqitously desired qualities in any engineering role. The following soft skills are vital to your success as a Field Applications Engineer.
