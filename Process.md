@@ -60,7 +60,7 @@ Presentation is about creating an atmosphere where you are listening and demonst
 
 Strengthen your presentation skills by taking a circuit from your class notes and explaining it on a whiteboard to a peer who will ask questions and give feedback. Do this exercise twice a month. This gives you practice explaining aloud and will allow you to reflect on which parts of your presentation need work.
 
-### How to Become More Adaptable
+### Adapt to Thrive In Fast-Paced Engineering Environments
 
 An FAE may manage up to 20 different projects at once, so interviewers look for adaptable candidates who can communicate naturally and can shift perspective to create satisfaction and understanding during sales pitches and design meetings.[^2]
 
