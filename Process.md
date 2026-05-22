@@ -77,3 +77,5 @@ Augment your ability to communicate and switch perspectives early by taking an i
 
             https://www.washington.edu/students/crscatb/bee.html (accessed Apr. 16, 2026). 
 [^2]: A. Dennis and Z. Aljouni, “Student Informational Interview with Analog Devices Field Applications Engineer,” Apr. 16, 2026 
+
+WordCount: 665
