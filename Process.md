@@ -4,7 +4,7 @@
 
 - [Purpose](#purpose)
     - [Build Familiarity with IC Configurations Early](#build-familiarity-with-IC-configurations-early)
-         - [BEE 433| Electronic Circuit Design](#BEE-433-|-electronic-circuit-design)
+         - [Electronic Circuit Design](#electronic-circuit-design)
          - [Fundamentals of IC Technology](#fundamentals-of-ic-technology)
     - [Strengthen Skills Through Personal Projects](#Strengthen-Skills-Through-Personal-Projects)
          - [Flash ADC](#flash-adc)
@@ -27,11 +27,11 @@ As a Husky EE student nearing graduation, you will soon begin applying for jobs.
 
 **How:**   Take these classes during your degree at UW Bothell.
 
-### BEE 433 | Electronic Circuit Design
-The class focuses on design using integrated circuits (op-amps, processors, etc.) making it  invaluable to gaining familiarity with semiconductor technologies--products you will both sell and work alongside technical teams to implement.[^1]
+### Electronic Circuit Design
+BEE433 focuses on design using integrated circuits (op-amps, processors, etc.) making it  invaluable to gaining familiarity with semiconductor technologies--products you will both sell and work alongside technical teams to implement.[^1]
 
-### BEE 486 | Fundamentals of IC Technology
-This course covers mircoelectronic processing technology, IC-fabrication chemical processes, and teaches design considerations for semiconductor components. A dedicated study will ensure you impress inteviewers in the technical interview.[^1]
+### Fundamentals of IC Technology
+BEE 486 covers mircoelectronic processing technology, IC-fabrication chemical processes, and teaches design considerations for semiconductor components. A dedicated study will ensure you impress inteviewers in the technical interview.[^1]
 
 ## Strengthen Skills Through Personal Projects
 
