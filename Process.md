@@ -64,7 +64,7 @@ Strengthen your presentation skills by taking a circuit from your class notes an
 
 An FAE may manage up to 20 different projects at once, so interviewers look for adaptable candidates who can communicate naturally and can shift perspective to create satisfaction and understanding during sales pitches and design meetings.[^2]
 
-Augment your ability to communicate and switch perspectives early by taking an improv class. Taking an improv class teaches you to creatively adapt and not get stuck in a loop. Consider joining the [UW Collective Improv Troupe](https://huskylink.washington.edu/organization/improv) or take a class from [Unexpected Productions](https://www.unexpectedproductions.org/classes-2/)
+Augment your ability to communicate and switch perspectives early by taking an improv class. Taking an improv class teaches you to creatively adapt and not get stuck in a loop. Consider joining the [UW Collective Improv Troupe](https://huskylink.washington.edu/organization/improv) or take a class from [Unexpected Productions](https://www.unexpectedproductions.org/classes-2/).
 
 ## Sharpen Your Resume wuth Internship Experience
 **Why:** Having any industry experience through an internship is an excellent way to show recruiters you have developed your soft skills and technical experience by working on a company project.
