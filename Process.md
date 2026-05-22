@@ -40,7 +40,7 @@ This course covers mircoelectronic processing technology, IC-fabrication chemica
 **How:** Below are a couple inter-related project ideas to get you started:
 
 ### Flash ADC
-A flash analog to digital converter is a circuit that takes an analog voltage and transforms it into a digital number.  Here is a tutorial on building a [Flash ADC project](https://www.youtube.com/watch?v=Q1I3axj1cQA, "DIY 3-bit Flash ADC").
+A flash analog to digital converter is a circuit that takes an analog voltage and transforms it into a digital number.  Here is a [tutorial](https://www.youtube.com/watch?v=Q1I3axj1cQA, "DIY 3-bit Flash ADC") on building a flash ADC.
 
 ### SAR ADC
 A successive approximation register is also a circuit that also takes an analog signal and returns a digital value. . Here is a [project schematic](https://hackaday.io/project/181826-homemade-successive-approximation-register-adc, "DIY SAR ADC"), and a [video demo](https://www.youtube.com/watch?v=lxwAKFijk50, "SAR ADC walkthrough").
@@ -49,7 +49,7 @@ A successive approximation register is also a circuit that also takes an analog 
 A MOSFET amplifier will use transistors to amplify a small signal. Try building one from this [project layout](https://www.electronics-tutorials.ws/amplifier/mosfet-amplifier.html).
 
 ### AM Radio Reciever
-A [reciever](https://www.circuitbasics.com/what-are-am-radios/) which can demodulate and play signals on AM freuqncy band. 
+An AM reciever which can demodulate and play signals on AM frequency band. Here is a [guide](https://www.circuitbasics.com/what-are-am-radios/) to building one.
 
 ## Soft Skills
 Soft skills like communication, time-management, and conflict resolution are ubiqitously desired qualities in any engineering role. The following soft skills are vital to your success as a Field Applications Engineer.
