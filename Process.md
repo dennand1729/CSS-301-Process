@@ -11,7 +11,7 @@
          - [SAR ADC](#sar-adc)
          - [MOSFET Amplifier](#mosfet-amplifier)
          - [AM Radio Receiver](#am-radio-receiver)
-    - [Soft Skills](#soft-skills)
+    - [Build Customer Facing Engineering Skills](#build-customer-facing-engineering-skills)
          - [Presentation](#presentation)
          - [Adaptability](#adaptability)
     - [Internships](#internships)
@@ -35,24 +35,24 @@ This course covers mircoelectronic processing technology, IC-fabrication chemica
 
 ## Strengthen Skills Through Personal Projects
 
-**Why:** Technical interviewers want to hire canidates with experience in design and troubleshooting. Having a few polished projects can advertise your skills and give you a well of intuition to tap into during the interview. 
+**Why:** Technical interviewers want candidates with experience in design, testing, and troubleshooting. Building a portfolio of projects not only demonstrates your technical skills, but also gives you practical intuition about project development that you can draw on during interviews to stand out as a candidate.
 
-**How:** Below are a couple inter-related project ideas to get you started:
+**How:** Build projects you find interesting and then create a public GitHub repository to host them. Discuss the project and what you learned in a README file. Below are a couple ideas to get you started:
 
 ### Flash ADC
-A flash analog to digital converter is a circuit that takes an analog voltage and transforms it into a digital number.  Here is a [tutorial](https://www.youtube.com/watch?v=Q1I3axj1cQA, "DIY 3-bit Flash ADC") on building a flash ADC.
+Circuit that takes an analog voltage and transforms it into a digital number.  Here is a [tutorial](https://www.youtube.com/watch?v=Q1I3axj1cQA, "DIY 3-bit Flash ADC") on building a flash ADC.
 
 ### SAR ADC
-A successive approximation register is also a circuit that also takes an analog signal and returns a digital value. . Here is a [project schematic](https://hackaday.io/project/181826-homemade-successive-approximation-register-adc, "DIY SAR ADC"), and a [video demo](https://www.youtube.com/watch?v=lxwAKFijk50, "SAR ADC walkthrough").
+Circuit that also takes an analog signal and returns a digital value. . Here is a [project schematic](https://hackaday.io/project/181826-homemade-successive-approximation-register-adc, "DIY SAR ADC"), and a [video demo](https://www.youtube.com/watch?v=lxwAKFijk50, "SAR ADC walkthrough").
 
 ### MOSFET Amplifier
-A MOSFET amplifier will use transistors to amplify a small signal. Try building one from this [project layout](https://www.electronics-tutorials.ws/amplifier/mosfet-amplifier.html).
+Circuit which uses a transistor to amplify a small signal. Try building one from this [project layout](https://www.electronics-tutorials.ws/amplifier/mosfet-amplifier.html).
 
 ### AM Radio Reciever
-An AM reciever which can demodulate and play signals on AM frequency band. Here is a [guide](https://www.circuitbasics.com/what-are-am-radios/) to building one.
+A device which can demodulate and play signals on AM frequency band. Here is a [guide](https://www.circuitbasics.com/what-are-am-radios/) to building one.
 
-## Soft Skills
-Soft skills like communication, time-management, and conflict resolution are ubiqitously desired qualities in any engineering role. The following soft skills are vital to your success as a Field Applications Engineer.
+## Build Customer-Facing Engineering Skills
+**Why:** Being an FAE necessitates clear explanation of technical solutions to a variety of customers with different design requirements so IC firms specifically look for students who depict strong presentation and adaptability skills.
 
 ### Presentation
 You are the face of the semiconductor-company you work for. Engineering teams at external companies collaborate with you to find optimal solutions to their problems. They will rely on your expertise and feedback to proceed with their projects. You must create a space where clients feel comfortable asking questions, and you must show your attention to detail in understanding their concerns. [^2]
