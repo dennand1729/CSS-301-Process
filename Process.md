@@ -71,6 +71,7 @@ Augment your ability to communicate and switch perspectives early by taking an i
 
 **How:** Look around the room you are in. There are likely at least ten devices which work via PCB. Make a list of those companies and apply to their internship programs. You will find opportunties in electrical engineering are abundant and not at all limited to FAANG.
 
+ ![Finding Companies for Internships](InternshipFindingGraphic.png)
 ## References
 [^1]: UW BOTHELL ENGINEERING AND MATHEMATICS (BOTHELL) ELECTRICAL ENGINEERING - UW BOTHELL COURSE OFFERINGS, \
 
