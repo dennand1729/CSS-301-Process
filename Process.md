@@ -12,9 +12,9 @@
          - [MOSFET Amplifier](#mosfet-amplifier)
          - [AM Radio Receiver](#am-radio-receiver)
     - [Build Customer Facing Engineering Skills](#build-customer-facing-engineering-skills)
-         - [Presentation](#presentation)
-         - [Adaptability](#adaptability)
-    - [Internships](#internships)
+         - [How to Strengthen Presentation](#how-to-strengthen-presentation)
+         - [How to Become More Adaptable](#how-to-become-more-adaptable)
+    - [Sharpen Your Resume with Internship Experience](#sharpen-your-resume-with-internship-experience)
 - [References](#references)
 ---
 ## Purpose
@@ -54,23 +54,22 @@ A device which can demodulate and play signals on AM frequency band. Here is a [
 ## Build Customer-Facing Engineering Skills
 **Why:** Being an FAE necessitates clear explanation of technical solutions to a variety of customers with different design requirements so IC firms specifically look for students who depict strong presentation and adaptability skills.
 
-### Presentation
-You are the face of the semiconductor-company you work for. Engineering teams at external companies collaborate with you to find optimal solutions to their problems. They will rely on your expertise and feedback to proceed with their projects. You must create a space where clients feel comfortable asking questions, and you must show your attention to detail in understanding their concerns. [^2]
+### How to Strengthen Presentation
 
-The best practice to confirm that you understand someone's problem is to reflect it back to them in a different way and ask "Am I understanding this correctly?".[^2] i.e. if a client tells you their design problem then you can present a confifent understanding by drawing it out on a whiteboard, talking through the depiction, and asking if your visual captures their dilemna-- this accomplishes two things.
+Presentation is about creating an atmosphere where you are listening and demonstrating understanding of the customer's technical deliverables and deadlines. This is often done by whiteboarding the technical issue in front of a panel of engineers from the client company and explicitly asking: "Am I understanding this correctly?".[^2]
 
-1.) You deeply understand the problem to fix and can easily communicate the needs of the client with your own team at the semiconductor company \
+Strengthen your presentation skills by taking a circuit from your class notes and explaining it on a whiteboard to a peer who will ask questions and give feedback. Do this exercise twice a month. This gives you practice explaining aloud and will allow you to reflect on which parts of your presentation need work.
 
-2.) You demonstrate an eagerness to understand and listen to the client.
+### How to Become More Adaptabable
 
-### Adaptability
-Talking to a panel of engineers can be a difficult conversation. Sometimes in order to solve a problem we need a different approach e.g. a frequency domain will provide a more fruitful analysis than time domain when analyzing AC circuits. As a Field Applications Engineer, you need to be able to find a natural flow in communicating with other-- an intuition on when to switch perspectives, and a sense of reading the satisfaction of the client's engineering team with the proposed solution. 
+An FAE may manage up to 20 different projects at once, so interviewers look for adaptable candidates who can communicate naturally and can shift perspective to create satisfaction and understanding during sales pitches and design meetings.[^2]
 
-One unconventional way to gain this sixth sense is to take an improv class. Improv is hard because it forces you to think on your feet and teaches you to not get stuck in a recursive thought loop. Taking an improv class will certainly teach you to creatively adapt in demanding situations like interviews, sales pitches, and design meetings.
+Augment your ability to communicate and switch perspectives early by taking an improv class. Taking an improv class teaches you to creatively adapt and not get stuck in a loop. Consider joining the [UW Collective Improv Troupe](https://huskylink.washington.edu/organization/improv) or take a class from [Unexpected Productions](https://www.unexpectedproductions.org/classes-2/)
 
+## Sharpen Your Resume wuth Internship Experience
+**Why:** Having any industry experience through an internship is an excellent way to show recruiters you have developed your soft skills and technical experience by working on a company project.
 
-## Internships
-Internships are a great way to demonstrate your ability to work on an engineering team with other people; they have become notoriously elusive and hard to get. You can land an internship by searching for companies in your field that are not being bombarded with applications. Bigger companies means more competition so your best bet is applying to companies with fewer applicants and making sure you stand out.
+**How:** Look around the room you are in. There are likely at least ten devices which work via PCB. Make a list of those companies and apply to their internship programs. You will find opportunties in electrical engineering are abundant and not at all limited to FAANG.
 
 ## References
 [^1]: UW BOTHELL ENGINEERING AND MATHEMATICS (BOTHELL) ELECTRICAL ENGINEERING - UW BOTHELL COURSE OFFERINGS, \
