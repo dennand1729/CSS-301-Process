@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Purpose](#purpose)
-    - [Upper-Division Electives to Take](#upper-division-electives-to-take)
+    - [Build Familiarity with IC Configurations Early](#build-familiarity-with-IC-configurations-early)
          - [Electronic Circuit Design](#electronic-circuit-design)
          - [Fundamentals of IC Technology](#fundamentals-of-ic-technology)
     - [Personal Projects to Consider Building](#personal-projects-to-consider-building)
@@ -20,7 +20,7 @@
 As a Husky EE student nearing graduation, you will soon begin applying for jobs. Your goal of becoming an integrated circuit field applications engineer is approaching fruition. The purpose of this document is to  give you a leap-start on how to best prepare for getting your dream-job.
 
 
-## Upper-Division Electives to Take
+## Build Familiarity with IC Configurations Early
 EE students take BEE 332 | Semiconductors & Devices II as a core requirement. After satiating this requirement, you should take particular electives to enhance your technical knowledge of integrated circuits. Recommended courses are listed below:
 
 ### Electronic Circuit Design
