@@ -4,7 +4,7 @@
 
 - [Purpose](#purpose)
     - [Build Familiarity with IC Configurations Early](#build-familiarity-with-IC-configurations-early)
-         - [Electronic Circuit Design](#BEE-433-|-electronic-circuit-design)
+         - [BEE 433| Electronic Circuit Design](#BEE-433-|-electronic-circuit-design)
          - [Fundamentals of IC Technology](#fundamentals-of-ic-technology)
     - [Strengthen Skills Through Personal Projects](#Strengthen-Skills-Through-Personal-Projects)
          - [Flash ADC](#flash-adc)
