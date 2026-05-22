@@ -10,7 +10,7 @@
          - [Flash ADC](#flash-adc)
          - [SAR ADC](#sar-adc)
          - [MOSFET Amplifier](#mosfet-amplifier)
-         - [AM Radio Receiver](#am-radio-receiver)
+         - [AM Radio Receiver](#AM-radio-receiver)
     - [Build Customer Facing Engineering Skills](#build-customer-facing-engineering-skills)
          - [How to Strengthen Presentation](#how-to-strengthen-presentation)
          - [How to Become More Adaptable](#how-to-become-more-adaptable)
@@ -66,7 +66,7 @@ An FAE may manage up to 20 different projects at once, so interviewers look for 
 
 Augment your ability to communicate and switch perspectives early by taking an improv class. Taking an improv class teaches you to creatively adapt and not get stuck in a loop. Consider joining the [UW Collective Improv Troupe](https://huskylink.washington.edu/organization/improv) or take a class from [Unexpected Productions](https://www.unexpectedproductions.org/classes-2/).
 
-## Sharpen Your Resume wuth Internship Experience
+## Sharpen Your Resume with Internship Experience
 **Why:** Having any industry experience through an internship is an excellent way to show recruiters you have developed your soft skills and technical experience by working on a company project.
 
 **How:** Look around the room you are in. There are likely at least ten devices which work via PCB. Make a list of those companies and apply to their internship programs. You will find opportunties in electrical engineering are abundant and not at all limited to FAANG.
