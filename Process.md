@@ -12,8 +12,8 @@
          - [MOSFET Amplifier](#mosfet-amplifier)
          - [AM Radio Receiver](#am-radio-receiver)
     - [Build Customer Facing Engineering Skills](#build-customer-facing-engineering-skills)
-         - [How to Strengthen Presentation](#how-to-strengthen-presentation)
-         - [How to Become More Adaptable](#how-to-become-more-adaptable)
+         - [Create Understanding by Strengthening Presentation Skills](#create-understanding-by-strengthening-presentation-skills).
+         - [Adapt to Thrive in Fast-Paced Engineering Environments](#adapt-to-thrive-in-fast-paced-engineering-environments)
     - [Sharpen Your Resume with Internship Experience](#sharpen-your-resume-with-internship-experience)
 - [References](#references)
 ---
@@ -54,7 +54,7 @@ A device which can demodulate and play signals on AM frequency band. Here is a [
 ## Build Customer-Facing Engineering Skills
 **Why:** Being an FAE necessitates clear explanation of technical solutions to a variety of customers with different design requirements so IC firms specifically look for students who depict strong presentation and adaptability skills.
 
-### How to Strengthen Presentation
+### Create Understanding by Strengthening Presentation Skills
 
 Presentation is about creating an atmosphere where you are listening and demonstrating understanding of the customer's technical deliverables and deadlines. This is often done by whiteboarding the technical issue in front of a panel of engineers from the client company and explicitly asking: "Am I understanding this correctly?".[^2]
 
