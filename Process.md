@@ -10,7 +10,7 @@
          - [Flash ADC](#flash-adc)
          - [SAR ADC](#sar-adc)
          - [MOSFET Amplifier](#mosfet-amplifier)
-         - [AM Radio Receiver](#AM-radio-receiver)
+         - [AM Radio Receiver](#am-radio-receiver)
     - [Build Customer Facing Engineering Skills](#build-customer-facing-engineering-skills)
          - [How to Strengthen Presentation](#how-to-strengthen-presentation)
          - [How to Become More Adaptable](#how-to-become-more-adaptable)
@@ -48,7 +48,7 @@ Circuit that also takes an analog signal and returns a digital value. . Here is 
 ### MOSFET Amplifier
 Circuit which uses a transistor to amplify a small signal. Try building one from this [project layout](https://www.electronics-tutorials.ws/amplifier/mosfet-amplifier.html).
 
-### AM Radio Reciever
+### AM Radio Receiver
 A device which can demodulate and play signals on AM frequency band. Here is a [guide](https://www.circuitbasics.com/what-are-am-radios/) to building one.
 
 ## Build Customer-Facing Engineering Skills
@@ -60,7 +60,7 @@ Presentation is about creating an atmosphere where you are listening and demonst
 
 Strengthen your presentation skills by taking a circuit from your class notes and explaining it on a whiteboard to a peer who will ask questions and give feedback. Do this exercise twice a month. This gives you practice explaining aloud and will allow you to reflect on which parts of your presentation need work.
 
-### How to Become More Adaptabable
+### How to Become More Adaptable
 
 An FAE may manage up to 20 different projects at once, so interviewers look for adaptable candidates who can communicate naturally and can shift perspective to create satisfaction and understanding during sales pitches and design meetings.[^2]
 
