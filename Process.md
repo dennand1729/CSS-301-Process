@@ -72,11 +72,13 @@ Augment your ability to communicate and switch perspectives early by taking an i
 **How:** Make a list of companies outside of FAANG and apply to their internship programs 3 to 9 months before the quarter you hope to intern during. Make appointments with [UWB Career Services](https://www.uwb.edu/career-services/) to optimize your resume and cover letter for each application. 
 
  ![Finding Companies for Internships](InternshipFindingGraphic.png)
+
+##
+WordCount: 665
 ## References
 [^1]: UW BOTHELL ENGINEERING AND MATHEMATICS (BOTHELL) ELECTRICAL ENGINEERING - UW BOTHELL COURSE OFFERINGS, \
 
             https://www.washington.edu/students/crscatb/bee.html (accessed Apr. 16, 2026). 
 [^2]: A. Dennis and Z. Aljouni, “Student Informational Interview with Analog Devices Field Applications Engineer,” Apr. 16, 2026 
 
-##
-WordCount: 665
+
